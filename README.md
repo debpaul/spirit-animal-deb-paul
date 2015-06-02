@@ -15,3 +15,6 @@ Higher classification: Suricata
 Tail length: 6.7 – 9.8 in. (Adult)
 
 The meerkat or suricate is a small carnivoran belonging to the mongoose family. It is the only member of the genus Suricata. Wikipedia
+
+Deb, do you like Timon and Pumbaa?
+![alt text](http://stream1.gifsoup.com/view4/3854443/hula-o.gif
