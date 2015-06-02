@@ -3,7 +3,7 @@ Author: Deb Paul
 
 My spirit animal is a meerkat.
 
-## Meerkats
+## Meerkats 
 from: http://en.wikipedia.org/wiki/Meerkat
 
 Scientific name: Suricata suricatta
